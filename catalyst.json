@@ -1,0 +1,12 @@
+{
+  "functions": {
+    "targets": [
+      "page_builder_function"
+    ],
+    "ignore": [],
+    "source": "functions"
+  },
+  "client": {
+    "source": "client"
+  }
+}
